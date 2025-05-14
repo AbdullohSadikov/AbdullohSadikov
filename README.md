@@ -32,7 +32,7 @@
 ---
 
 ### 🔥 Статистика активности:
-![GitHub Streak](https://streak-stats.demolab.com?user=Абдуллох&theme=radical)
+![GitHub Streak](https://immunocap.ru/photo/kodovoe-programmirovanie/3)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Абдуллох&theme=radical)
 
