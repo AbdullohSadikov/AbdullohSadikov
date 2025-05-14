@@ -28,6 +28,6 @@
 
 ### 📫 Контакты:
 - 💬 Telegram: [@windy_2010](https://t.me/windy_2010)
-- 📧 Email: abdulloh@example.com *(замени на свою почту)*
+
 
 ---
