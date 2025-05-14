@@ -25,10 +25,7 @@
 
 ---
 
-### 🔥 Моя активность:
-![GitHub Streak](https://streak-stats.demolab.com?user=ТВОЙ_НИК&theme=radical)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ТВОЙ_НИК&theme=radical)
 
 ---
 
