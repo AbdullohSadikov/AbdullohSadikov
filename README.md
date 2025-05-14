@@ -15,4 +15,4 @@
 
 ## 📫 Как со мной связаться:
 - Telegram: [@abdulloh_dev](https://t.me/abdulloh_dev)
-- Email: abdulloh@example.com
+
