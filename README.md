@@ -11,13 +11,13 @@
 ---
 
 ### 🚀 Немного обо мне:
-- 🔥 Учусь и развиваюсь в backend-разработке
+- 🔥 Развиваюсь в backend-разработке
 - 🎯 Мечтаю стать senior-разработчиком
-- 💬 Открыт к сотрудничеству и новым проектам
+- 🧠 Люблю чистый код и изучаю лучшие практики
 
 ---
 
-### 🛠️ Мои технологии:
+### 🛠️ Технологии:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)
@@ -26,20 +26,8 @@
 
 ---
 
-### 🏆 GitHub Трофеи:
-![Trophies](https://github-profile-trophy.vercel.app/?username=Абдуллох&theme=radical&row=1)
-
----
-
-### 🔥 Статистика активности:
-![GitHub Streak](https://immunocap.ru/photo/kodovoe-programmirovanie/3)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Абдуллох&theme=radical)
-
----
-
-### 📫 Связаться со мной:
-- 📧 Email: abdulloh@example.com *(укажи свою почту, если хочешь)*
+### 📫 Контакты:
 - 💬 Telegram: [@windy_2010](https://t.me/windy_2010)
+- 📧 Email: abdulloh@example.com *(замени на свою почту)*
 
 ---
