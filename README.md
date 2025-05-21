@@ -1,33 +1,58 @@
-<!-- Центрированный аватар -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/Абдуллох" width="150" height="150" style="border-radius: 50%;" />
-</p>
+<h1 align="center">Hi there, I'm Abdulloh Sadikov 👋</h1>
 
-<h1 align="center">👋 Привет! Я Абдуллох</h1>
 <p align="center">
-  💻 Backend-разработчик на Python • 🌐 Django • 🎓 Ученик GEEKS Academy
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
 </p>
 
 ---
 
-### 🚀 Немного обо мне:
-- 🔥 Развиваюсь в backend-разработке
-- 🎯 Мечтаю стать senior-разработчиком
-- 🧠 Люблю чистый код и изучаю лучшие практики
+### 👨‍💻 About Me
+
+- 💡 Passionate about building cool things and solving real-world problems with code.
+- 🛠 Always learning new technologies and improving my skills.
+- 🌱 Currently exploring modern web development, automation, and open-source.
 
 ---
 
-### 🛠️ Технологии:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+### 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typescript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="nodejs"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git"/>
+</p>
 
 ---
 
-### 📫 Контакты:
-- 💬 Telegram: [@windy_2010](https://t.me/windy_2010)
+### 🌟 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullohSadikov&show_icons=true&theme=github_dark" alt="AbdullohSadikov's GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullohSadikov&theme=github-dark-blue" height="160"/>
+</p>
 
 ---
+
+### ✨ Featured Projects
+
+- 📦 *Awesome Project 1:* Short description about your project or [GitHub link](#)
+- 🚀 *Amazing Tool:* Brief line about what it does or [GitHub link](#)
+- 🤖 *Open-Source Contribution:* Name or link
+
+---
+
+### 📫 How to reach me
+
+- [Telegram](https://t.me/)
+- [LinkedIn](https://linkedin.com/)
+- [Email](mailto:your.email@example.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbdullohSadikov&color=blueviolet" alt="profile views"/>
+</p>
