@@ -47,9 +47,8 @@
 
 ### 📫 How to reach me
 
-- [Telegram](https://t.me/)
-- [LinkedIn](https://linkedin.com/)
-- [Email](mailto:your.email@example.com)
+- [Telegram](Windy_2010)
+
 
 ---
 
